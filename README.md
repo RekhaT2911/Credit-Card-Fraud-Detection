@@ -1,6 +1,3 @@
-Here is a complete `README.md` for your **Credit Card Fraud Detection** project using the `credit_card_fraud_sample.csv` dataset, written entirely in markdown:
-
-````markdown
 # Credit Card Fraud Detection
 
 This project focuses on detecting fraudulent credit card transactions using machine learning techniques. The goal is to build a classification model that can accurately distinguish between legitimate and fraudulent transactions based on historical data.
